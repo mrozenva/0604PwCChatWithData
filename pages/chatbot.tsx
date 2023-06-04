@@ -161,7 +161,7 @@ export default function Home() {
         </div>
         <footer className="m-auto">
           <a>
-            Demo for PwC.
+            Demo for PwC. | Built by Michael R.
           </a>
         </footer>
       </Layout>
